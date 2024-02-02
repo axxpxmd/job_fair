@@ -2,7 +2,11 @@
     <div class="container">
         <div class="main-header">
             <div class="header-left">
-                <div class="header-logo"><a class="d-flex" href="index.html"><img alt="jobBox" src="assets/imgs/template/jobhub-logo.svg"></a></div>
+                <div class="header-logo">
+                    <a class="d-flex" href="{{ route('home-page') }}">
+                        <img alt="jobBox" src="assets/imgs/template/jobhub-logo.svg">
+                    </a>
+                </div>
             </div>
             <div class="header-nav">
                 <nav class="nav-main-menu">
@@ -43,8 +47,8 @@
                                 <li><a href="page-about.html">About Us</a></li>
                                 <li><a href="page-pricing.html">Pricing Plan</a></li>
                                 <li><a href="page-contact.html">Contact Us</a></li>
-                                <li><a href="page-register.html">Register</a></li>
-                                <li><a href="page-signin.html">Signin</a></li>
+                                <li><a href="{{ route('register') }}">Register</a></li>
+                                <li><a href="{{ route('login') }}">Signin</a></li>
                                 <li><a href="page-reset-password.html">Reset Password</a></li>
                                 <li><a href="page-content-protected.html">Content Protected</a></li>
                             </ul>
@@ -64,7 +68,7 @@
                 </div>
             </div>
             <div class="header-right">
-                <div class="block-signin"><a class="text-link-bd-btom hover-up" href="page-register.html">Register</a><a class="btn btn-default btn-shadow ml-40 hover-up" href="page-signin.html">Sign in</a></div>
+                <div class="block-signin"><a class="text-link-bd-btom hover-up" href="{{ route('register') }}">Register</a><a class="btn btn-default btn-shadow ml-40 hover-up" href="{{ route('login') }}">Sign in</a></div>
             </div>
         </div>
     </div>

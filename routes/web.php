@@ -3,7 +3,9 @@
 use Illuminate\Support\Facades\Route;
 
 //* Livewire Component
+use App\Http\Livewire\Login;
 use App\Http\Livewire\Homepage;
+use App\Http\Livewire\Register;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,4 +18,7 @@ use App\Http\Livewire\Homepage;
 |
 */
 
+
 Route::get('/', Homepage::class)->name('home-page');
+Route::get('/login', Login::class)->name('login');
+Route::get('/register', Register::class)->name('register');
