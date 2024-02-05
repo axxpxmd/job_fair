@@ -6,6 +6,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Livewire\Login;
 use App\Http\Livewire\Homepage;
 use App\Http\Livewire\Register;
+use App\Http\Livewire\ResetPassword;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,7 +19,8 @@ use App\Http\Livewire\Register;
 |
 */
 
-
-Route::get('/', Homepage::class)->name('home-page');
 Route::get('/login', Login::class)->name('login');
 Route::get('/register', Register::class)->name('register');
+Route::get('/reset-password', ResetPassword::class)->name('resetPassword');
+
+Route::get('/', Homepage::class)->name('home-page');

@@ -24,7 +24,7 @@
                                 <span class="text-small">ingat saya</span>
                                 <span class="checkmark"></span>
                             </label>
-                            <a class="text-primary" href="page-contact.html">Lupa Password</a>
+                            <a class="text-primary" href="{{ route('resetPassword') }}">Lupa Password</a>
                         </div>
                         <div class="form-group">
                             <button class="btn btn-brand-1 hover-up w-100" type="submit" name="login">Login</button>

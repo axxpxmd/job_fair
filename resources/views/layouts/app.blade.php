@@ -31,7 +31,6 @@
 <body class="bg-light">
     @include('layouts.header')
     <main class="main">
-        {{-- <div class="bg-homepage1"></div> --}}
         @yield('content')
     </main>
     @include('layouts.footer')
