@@ -187,10 +187,18 @@
                                         <a href="job-details.html">UX Designer &amp; Researcher remote</a>
                                     </h6>
                                     <div class="mt-5">
-                                        <p class="card-briefcase mr-15">PT Halotec Indonesia</p><br>
-                                        <p class="card-time">Tangerang Selatan</p><br>
-                                        <p class="card-time">5jt - 10jt</p><br>
-                                        <p class="card-time">Karyawan Kontrak</p><br>
+                                        <span class="fs-12 text-black-50 font-weight-bold">
+                                            <i class="fa fa-building m-r-10" style="font-size: 14px !important"></i> PT Halotec Indonesia
+                                        </span><br>
+                                        <span class="fs-12 text-black-50 font-weight-bold">
+                                            <i class="fa fa-location-dot m-r-10" style="font-size: 14px !important"></i> Tangerang Selatan
+                                        </span><br>
+                                        <span class="fs-12 text-black-50 font-weight-bold">
+                                            <i class="fa fa-clock m-r-8" style="font-size: 13px !important"></i> Karyawan Kontrak
+                                        </span><br>
+                                        <span class="fs-12 text-black-50 font-weight-bold">
+                                            <i class="fa fa-dollar-sign m-r-12" style="font-size: 15px !important"></i> 5jt - 10jt
+                                        </span><br>
                                     </div>
                                     <hr>
                                     <div class="card-2-bottom mt-20">
@@ -215,10 +223,18 @@
                                         <a href="job-details.html">UX Designer &amp; Researcher remote</a>
                                     </h6>
                                     <div class="mt-5">
-                                        <p class="card-briefcase mr-15">PT Halotec Indonesia</p><br>
-                                        <p class="card-time">Tangerang Selatan</p><br>
-                                        <p class="card-time">-</p><br>
-                                        <p class="card-time">Karyawan Kontrak</p><br>
+                                        <span class="fs-12 text-black-50 font-weight-bold">
+                                            <i class="fa fa-building m-r-10" style="font-size: 14px !important"></i> PT Halotec Indonesia
+                                        </span><br>
+                                        <span class="fs-12 text-black-50 font-weight-bold">
+                                            <i class="fa fa-location-dot m-r-10" style="font-size: 14px !important"></i> Tangerang Selatan
+                                        </span><br>
+                                        <span class="fs-12 text-black-50 font-weight-bold">
+                                            <i class="fa fa-clock m-r-8" style="font-size: 13px !important"></i> Karyawan Kontrak
+                                        </span><br>
+                                        <span class="fs-12 text-black-50 font-weight-bold">
+                                            <i class="fa fa-dollar-sign m-r-12" style="font-size: 15px !important"></i> 5jt - 10jt
+                                        </span><br>
                                     </div>
                                     <hr>
                                     <div class="card-2-bottom mt-20">
@@ -243,10 +259,18 @@
                                         <a href="job-details.html">UX Designer &amp; Researcher remote</a>
                                     </h6>
                                     <div class="mt-5">
-                                        <p class="card-briefcase mr-15">PT Halotec Indonesia</p><br>
-                                        <p class="card-time">Tangerang Selatan</p><br>
-                                        <p class="card-time">5jt - 10jt</p><br>
-                                        <p class="card-time">Karyawan Kontrak</p><br>
+                                        <span class="fs-12 text-black-50 font-weight-bold">
+                                            <i class="fa fa-building m-r-10" style="font-size: 14px !important"></i> PT Halotec Indonesia
+                                        </span><br>
+                                        <span class="fs-12 text-black-50 font-weight-bold">
+                                            <i class="fa fa-location-dot m-r-10" style="font-size: 14px !important"></i> Tangerang Selatan
+                                        </span><br>
+                                        <span class="fs-12 text-black-50 font-weight-bold">
+                                            <i class="fa fa-clock m-r-8" style="font-size: 13px !important"></i> Karyawan Kontrak
+                                        </span><br>
+                                        <span class="fs-12 text-black-50 font-weight-bold">
+                                            <i class="fa fa-dollar-sign m-r-12" style="font-size: 15px !important"></i> 5jt - 10jt
+                                        </span><br>
                                     </div>
                                     <hr>
                                     <div class="card-2-bottom mt-20">
