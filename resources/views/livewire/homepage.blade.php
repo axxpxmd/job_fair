@@ -187,26 +187,22 @@
                                         <a href="job-details.html">UX Designer &amp; Researcher remote</a>
                                     </h6>
                                     <div class="mt-5">
-                                        <span class="card-briefcase mr-15">Remote</span><span class="card-time">3 mins ago</span>
+                                        <p class="card-briefcase mr-15">PT Halotec Indonesia</p><br>
+                                        <p class="card-time">Tangerang Selatan</p><br>
+                                        <p class="card-time">5jt - 10jt</p><br>
+                                        <p class="card-time">Karyawan Kontrak</p><br>
                                     </div>
-                                    <div class="mt-20 border-bottom pb-20">
-                                        <a class="btn btn-grey-small bg-14 mb-5 mr-5" href="jobs-grid.html">Illustrator</a>
-                                        <a class="btn btn-grey-small bg-14 mb-5 mr-5" href="jobs-grid.html">Adobe XD</a>
-                                        <a class="btn btn-grey-small bg-14 mb-5 mr-5" href="jobs-grid.html">Figma</a>
-                                        <a class="btn btn-grey-small bg-14 mb-5 mr-5" href="jobs-grid.html">Sketch</a>
-                                        <a class="btn btn-grey-small bg-14 mb-5 mr-5" href="jobs-grid.html">Lunacy</a>
-                                    </div>
+                                    <hr>
                                     <div class="card-2-bottom mt-20">
                                         <div class="row">
                                             <div class="col-lg-7 col-md-7">
-                                            <div class="d-flex"><img class="img-rounded" src="assets/imgs/brands/brand-1.png" alt="jobBox">
-                                                <div class="info-right-img">
-                                                    <h6 class="color-brand-1 lh-14">Linkedin</h6>
-                                                    <span class="card-location font-xxs pl-15 color-text-paragraph-2">New York, US</span>
+                                                <div class="d-flex"><img class="img-rounded" src="assets/imgs/brands/brand-1.png" alt="jobBox">
+                                                    <div class="info-right-img">
+                                                        <h6 class="color-brand-1 lh-14">Linkedin</h6>
+                                                        <span class="card-location font-xxs pl-15 color-text-paragraph-2">New York, US</span>
+                                                    </div>
                                                 </div>
                                             </div>
-                                            </div>
-                                            <div class="col-lg-5 col-md-5 text-end"><span class="card-text-price">$200</span><span class="text-muted">/Hour</span></div>
                                         </div>
                                     </div>
                                 </div>
@@ -219,26 +215,22 @@
                                         <a href="job-details.html">UX Designer &amp; Researcher remote</a>
                                     </h6>
                                     <div class="mt-5">
-                                        <span class="card-briefcase mr-15">Remote</span><span class="card-time">3 mins ago</span>
+                                        <p class="card-briefcase mr-15">PT Halotec Indonesia</p><br>
+                                        <p class="card-time">Tangerang Selatan</p><br>
+                                        <p class="card-time">-</p><br>
+                                        <p class="card-time">Karyawan Kontrak</p><br>
                                     </div>
-                                    <div class="mt-20 border-bottom pb-20">
-                                        <a class="btn btn-grey-small bg-14 mb-5 mr-5" href="jobs-grid.html">Illustrator</a>
-                                        <a class="btn btn-grey-small bg-14 mb-5 mr-5" href="jobs-grid.html">Adobe XD</a>
-                                        <a class="btn btn-grey-small bg-14 mb-5 mr-5" href="jobs-grid.html">Figma</a>
-                                        <a class="btn btn-grey-small bg-14 mb-5 mr-5" href="jobs-grid.html">Sketch</a>
-                                        <a class="btn btn-grey-small bg-14 mb-5 mr-5" href="jobs-grid.html">Lunacy</a>
-                                    </div>
+                                    <hr>
                                     <div class="card-2-bottom mt-20">
                                         <div class="row">
                                             <div class="col-lg-7 col-md-7">
-                                            <div class="d-flex"><img class="img-rounded" src="assets/imgs/brands/brand-1.png" alt="jobBox">
-                                                <div class="info-right-img">
-                                                    <h6 class="color-brand-1 lh-14">Linkedin</h6>
-                                                    <span class="card-location font-xxs pl-15 color-text-paragraph-2">New York, US</span>
+                                                <div class="d-flex"><img class="img-rounded" src="assets/imgs/brands/brand-1.png" alt="jobBox">
+                                                    <div class="info-right-img">
+                                                        <h6 class="color-brand-1 lh-14">Linkedin</h6>
+                                                        <span class="card-location font-xxs pl-15 color-text-paragraph-2">New York, US</span>
+                                                    </div>
                                                 </div>
                                             </div>
-                                            </div>
-                                            <div class="col-lg-5 col-md-5 text-end"><span class="card-text-price">$200</span><span class="text-muted">/Hour</span></div>
                                         </div>
                                     </div>
                                 </div>
@@ -251,26 +243,22 @@
                                         <a href="job-details.html">UX Designer &amp; Researcher remote</a>
                                     </h6>
                                     <div class="mt-5">
-                                        <span class="card-briefcase mr-15">Remote</span><span class="card-time">3 mins ago</span>
+                                        <p class="card-briefcase mr-15">PT Halotec Indonesia</p><br>
+                                        <p class="card-time">Tangerang Selatan</p><br>
+                                        <p class="card-time">5jt - 10jt</p><br>
+                                        <p class="card-time">Karyawan Kontrak</p><br>
                                     </div>
-                                    <div class="mt-20 border-bottom pb-20">
-                                        <a class="btn btn-grey-small bg-14 mb-5 mr-5" href="jobs-grid.html">Illustrator</a>
-                                        <a class="btn btn-grey-small bg-14 mb-5 mr-5" href="jobs-grid.html">Adobe XD</a>
-                                        <a class="btn btn-grey-small bg-14 mb-5 mr-5" href="jobs-grid.html">Figma</a>
-                                        <a class="btn btn-grey-small bg-14 mb-5 mr-5" href="jobs-grid.html">Sketch</a>
-                                        <a class="btn btn-grey-small bg-14 mb-5 mr-5" href="jobs-grid.html">Lunacy</a>
-                                    </div>
+                                    <hr>
                                     <div class="card-2-bottom mt-20">
                                         <div class="row">
                                             <div class="col-lg-7 col-md-7">
-                                            <div class="d-flex"><img class="img-rounded" src="assets/imgs/brands/brand-1.png" alt="jobBox">
-                                                <div class="info-right-img">
-                                                    <h6 class="color-brand-1 lh-14">Linkedin</h6>
-                                                    <span class="card-location font-xxs pl-15 color-text-paragraph-2">New York, US</span>
+                                                <div class="d-flex"><img class="img-rounded" src="assets/imgs/brands/brand-1.png" alt="jobBox">
+                                                    <div class="info-right-img">
+                                                        <h6 class="color-brand-1 lh-14">Linkedin</h6>
+                                                        <span class="card-location font-xxs pl-15 color-text-paragraph-2">New York, US</span>
+                                                    </div>
                                                 </div>
                                             </div>
-                                            </div>
-                                            <div class="col-lg-5 col-md-5 text-end"><span class="card-text-price">$200</span><span class="text-muted">/Hour</span></div>
                                         </div>
                                     </div>
                                 </div>
